@@ -1,6 +1,5 @@
 import React from 'react';
 import styles from './Header.module.css'
-import './imgheader/paisagem.jpg'
 
 function Header() {
   return (
@@ -29,7 +28,7 @@ function Header() {
             </div>
             <div className={styles.right}>
                 <div className={styles.image}>
-                    <img src="src/components/imgheader/paisagem.jpg" alt="imagem de uma floresta"/>       
+                    <img src="paisagem.jpg" alt="imagem de uma floresta"/>       
                 </div>
             </div>
         </div>
