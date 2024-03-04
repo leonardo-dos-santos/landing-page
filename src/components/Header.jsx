@@ -28,7 +28,7 @@ function Header() {
             </div>
             <div className={styles.right}>
                 <div className={styles.image}>
-                    <img src="paisagem.jpg" alt="imagem de uma floresta"/>       
+                    <img src="src/components/imgHeader/paisagem.jpg" alt="imagem de uma floresta"/>       
                 </div>
             </div>
         </div>
