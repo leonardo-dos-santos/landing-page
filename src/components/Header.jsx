@@ -28,7 +28,7 @@ function Header() {
             </div>
             <div className={styles.right}>
                 <div className={styles.image}>
-                    <img src="src/components/imgHeader/paisagem.jpg" alt="imagem de uma floresta"/>       
+                    <img src="https://picsum.photos/700/315" alt="imagem de uma floresta"/>       
                 </div>
             </div>
         </div>
