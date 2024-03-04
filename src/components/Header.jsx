@@ -7,8 +7,8 @@ function Header() {
     <header>
         <div className={styles.nav}>
             <div className={styles.left}>
-                <p className={styles.logo}><img src="https://picsum.photos/150/50
-" alt="" /></p>
+                <p className={styles.logo}><img src="https://picsum.photos/150/55
+" alt="random image for logo" /></p>
             </div>
             <div className={styles.right}>
                 <ul>
@@ -20,7 +20,7 @@ function Header() {
         </div>
 
         <div className={styles.welcome}>
-            <div className={`${styles.left} ${styles.column}`}>
+            <div className={styles.left}>
                 <h1 className={styles.hero}>This website is awesome</h1>
                 <p className={styles.secondary}>This website has some subtext that goes here under the main title. It's a smaller
                     font and the

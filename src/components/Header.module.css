@@ -47,7 +47,7 @@ a:link {
   gap: 2em;
 }
 
-.welcome .right {
+.welcome .right{
   flex-shrink: 0;
   width: 50%;
 }
@@ -59,7 +59,7 @@ a:link {
 }
 
 .hero, .secondary{
-  margin-bottom: 30px;
+  margin-bottom: 10px;
 }
 
 button {
